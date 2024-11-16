@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor at Nankai University, China. I received the B.Sc. degree in applied mathematics from [Jilin University](www.jlu.edu.cn), Changchun, China, in 2003, the M.Sc. degree in applied mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/), Guangzhou, China, in 2005, and the Ph.D. degree in communication and information systems from [Ningbo University](www.nbu.edu.cn), China, in 2020. My research interests include underwater imaging and deep learning.
+I am a Professor at Ningbo University, China. I received the B.Sc. degree in applied mathematics from [Jilin University](www.jlu.edu.cn), Changchun, China, in 2003, the M.Sc. degree in applied mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/), Guangzhou, China, in 2005, and the Ph.D. degree in communication and information systems from [Ningbo University](www.nbu.edu.cn), China, in 2020. My research interests include underwater imaging and deep learning.
 
 A data-driven personal website
 ======
